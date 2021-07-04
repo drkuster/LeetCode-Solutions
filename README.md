@@ -8,4 +8,9 @@
             Two Sum
         </a>
     </li>
+    <li>
+        <a href="https://leetcode.com/problems/reverse-integer/" target="_blank">
+            Reverse Integer
+        </a>
+    </li>
 </ul>
