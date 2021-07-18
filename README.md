@@ -28,4 +28,14 @@
             Longest Common Prefix
         </a>
     </li>
+    <li>
+        <a href="https://leetcode.com/problems/valid-parentheses" target="_blank">
+            Valid Parentheses
+        </a>
+    </li>
+    <li>
+        <a href="https://leetcode.com/problems/merge-two-sorted-lists/" target="_blank">
+            Merge Two Sorted Lists
+        </a>
+    </li>
 </ul>
