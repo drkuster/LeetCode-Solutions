@@ -38,4 +38,9 @@
             Merge Two Sorted Lists
         </a>
     </li>
+    <li>
+        <a href="https://leetcode.com/problems/remove-element/" target="_blank">
+            Remove Element
+        </a>
+    </li>
 </ul>
