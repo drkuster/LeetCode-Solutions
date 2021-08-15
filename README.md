@@ -43,4 +43,9 @@
             Remove Element
         </a>
     </li>
+    <li>
+        <a href="https://leetcode.com/problems/implement-strstr/" target="_blank">
+            Implement strStr()
+        </a>
+    </li>
 </ul>
